@@ -14,7 +14,7 @@ const categoryData = [
     category_name: 'Kitchen',
   },
   {
-    category_name: 'Office-Supplies',
+    category_name: 'Office Supplies',
   },
 ];
 
